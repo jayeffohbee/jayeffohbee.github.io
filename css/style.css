@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+a {
+  color: #964900;
+}
+
 header, footer {
   background-color: maroon;
   text-align: left;
